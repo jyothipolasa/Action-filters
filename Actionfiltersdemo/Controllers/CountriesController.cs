@@ -19,9 +19,9 @@ namespace Actionfiltersdemo.Controllers
         {
             return View(countrynames);
         }
-        public ActionResult index2()
+        public ContentResult index2()
         {
-            return View();
+            return ContentResult("fgjhjhjj");
         }
     }
 }
