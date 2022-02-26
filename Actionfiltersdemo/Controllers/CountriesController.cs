@@ -19,7 +19,7 @@ namespace Actionfiltersdemo.Controllers
         {
             return View(countrynames);
         }
-        public ActionResult index()
+        public ActionResult index1()
         {
             return View();
         }
